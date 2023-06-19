@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Schekaf/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouh_Walk.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouch_Idle.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Locomotion_BlendSpace1D.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/ABP_RPG_CHARACTER.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
