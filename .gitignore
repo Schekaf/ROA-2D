@@ -1,5 +1,6 @@
-*.log
-CachedAssetRegistry.bin
-AutoScreenshot.png
-CrashReportClient.ini
-EditorPerProjectUserSettings.ini
+*/*.log
+*/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/MyProject.log
