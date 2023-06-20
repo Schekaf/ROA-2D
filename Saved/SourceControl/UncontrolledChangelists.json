@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouh_Walk.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouch_Idle.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Locomotion_BlendSpace1D.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/ABP_RPG_CHARACTER.uasset",
+				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/MrMato/Documents/GitHub/ROA-2D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/MrMato/Documents/GitHub/ROA-2D/Content/Meshes/door.uasset",
+				"C:/Users/MrMato/Documents/GitHub/ROA-2D/Content/BP/BP_DOOR.uasset",
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PW/45FU56BIDU7T7ASCMQQWJU.uasset",
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JC/SUU8EKOMTONYRVIGJSB6BH.uasset",
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CH/3Q7SXU8W8W9LDMRJGQ9J2V.uasset",
@@ -16,16 +27,7 @@
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/Meshes/Door_Color_Mat.uasset",
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/Meshes/door_PhysicsAsset.uasset",
 				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/Meshes/door_Skeleton.uasset",
-				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/Meshes/Material.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Idle_Break.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Walk_Stop.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouh_Walk.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Crouched/Crouch_Idle.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/Locomotion/Locomotion_BlendSpace1D.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/Characters/Mannequin_UE4/RPG/Animation/ABP_RPG_CHARACTER.uasset",
-				"C:/Users/MrMato/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/MrMato/Documents/GitHub/ROA-2D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Schekaf/Documents/Unreal Projects/ROA-2D/Content/Meshes/Material.uasset"
 			]
 		}
 	]
